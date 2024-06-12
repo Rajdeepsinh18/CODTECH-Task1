@@ -14,7 +14,7 @@ Mentor: SRAVANI GOUNI
 
 Overview of the Project
 
-Project: To do list 
+ProjectName: To do list 
 
 Objective
 
