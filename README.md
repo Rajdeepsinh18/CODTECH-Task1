@@ -59,3 +59,6 @@ Mark Complete: Users can mark tasks as completed or incomplete, helping them tra
 Data Persistence:
 
 2. Local Storage: Tasks are saved in the browser's local storage, ensuring that user data is preserved across sessions. This means that even if the user closes the browser or refreshes the page, their tasks will remain intact and accessible. This feature leverages JavaScript's localStorage API to store and retrieve task data.
+
+
+https://www.linkedin.com/posts/activity-7207258315687440384-vpun?utm_source=share&utm_medium=member_desktop
